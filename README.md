@@ -18,7 +18,7 @@ Today I'm responsible for implementing and reworking the principal features of t
 
 **About me**
 
-- My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4: [Paul Erdös](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) (0) → [Shmuel Zaks](https://en.wikipedia.org/wiki/Shmuel_Zaks) (1) → [Michel Raynal](https://en.wikipedia.org/wiki/Michel_Raynal) (2) → [Carlos Maziero (3)](http://wiki.inf.ufpr.br/maziero/doku.php) → Wagner Kramer(4).
+- My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4: [Paul Erdös](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) (0) → [Shmuel Zaks](https://en.wikipedia.org/wiki/Shmuel_Zaks) (1) → [Michel Raynal](https://en.wikipedia.org/wiki/Michel_Raynal) (2) → [Carlos Maziero (3)](http://wiki.inf.ufpr.br/maziero/doku.php) → Wagner Kramer (4).
 - 🐧 I'm trying to engage in the Ubuntu community, developing small and useful C tools.
 - 🌐 I'm developing a simple webserver called Alfred. The main idea is to import the node Express way of coding inside the C language.
 - 📫 The best way to reach me is via [wagner@kramer.dev.br](mailto:wagner@kramer.dev.br).
