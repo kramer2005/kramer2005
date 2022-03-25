@@ -12,7 +12,7 @@
 
 **Glad to see you here**
 
-I'm a software developer for NG Informática, working as a full-stack developer on the Quirons software.
+I'm a full stack software developer for NG Informática.
 
 Today I'm responsible for implementing and reworking the principal features of the application.
 
