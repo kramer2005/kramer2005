@@ -8,8 +8,6 @@
 
 **Glad to see you here**
 
-I'm a full stack software developer for NG Informática.
-
 Today I'm responsible for implementing and reworking the principal features of the application.
 
 **About me**
