@@ -8,8 +8,6 @@
 
 **Glad to see you here**
 
-Today I'm responsible for implementing and reworking the principal features of the application.
-
 **About me**
 
 - My [Erdös number](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4: [Paul Erdös](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) (0) → [Shmuel Zaks](https://en.wikipedia.org/wiki/Shmuel_Zaks) (1) → [Michel Raynal](https://en.wikipedia.org/wiki/Michel_Raynal) (2) → [Carlos Maziero (3)](http://wiki.inf.ufpr.br/maziero/doku.php) → Wagner Kramer (4).
